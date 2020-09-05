@@ -7,6 +7,7 @@
 - [음악 스트리밍 앱 Vibe](https://vibe.naver.com/)
 - 나의 Vibe 이용권 남은 기간 : 1년 9개월
 - Vibe를 사용하면서 불편했던 점들도 수정해보자!
+- [Notion 문서 링크](https://www.notion.so/bumsu/Vibe-Custom-Clone-Project-e6a18619e4cc46dda772dd6e29d397c2)
 
 ---
 
@@ -82,3 +83,10 @@
 ![title](https://img.shields.io/badge/-EC2-232F3E?&logo=Amazon-AWS&logoColor=white)
 ![title](https://img.shields.io/badge/-Github-181717?&logo=Github&logoColor=white)
 ![title](https://img.shields.io/badge/-Slack-4A154B?&logo=Slack&logoColor=white)
+
+---
+
+## 📑 요구사항 분석
+
+- [기존 바이브에서 카피할 사항](https://www.notion.so/bumsu/Vibe-abcc783ff44c4a3795e2f866897a4ef3)
+- [새로 추가 및 수정할 사항](https://www.notion.so/bumsu/d3c32e096fa84987bf72c909bb3097f6)
